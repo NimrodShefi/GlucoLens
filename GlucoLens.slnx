@@ -1,7 +1,12 @@
 <Solution>
   <Folder Name="/Configuration/">
     <File Path=".gitignore" />
-    <File Path="CLAUDE.md" />
+  </Folder>
+  <Folder Name="/Configuration/Claude/">
+    <File Path=".claude/CLAUDE.md" />
+  </Folder>
+  <Folder Name="/Configuration/Claude/rules/">
+    <File Path="privacy-and-safety.md" />
   </Folder>
   <Project Path="GlucoLens/GlucoLens.csproj" />
 </Solution>
