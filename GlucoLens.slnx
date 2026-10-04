@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Configuration/">
     <File Path=".gitignore" />
+    <File Path="CLAUDE.md" />
   </Folder>
   <Project Path="GlucoLens/GlucoLens.csproj" />
 </Solution>
